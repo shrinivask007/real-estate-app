@@ -16,31 +16,47 @@ A Real Estate App built using Expo (React Native) with Supabase as the backend a
 
 ## 📸 Screenshots
 
-### 1. Sign Up Page
-![Sign Up](./screenshots/signup.jpg)
+## 📸 Screenshots
 
-### 2. Login Page
-![Login](./screenshots/login.jpg)
+<table>
+  <tr>
+    <td align="center">
+      <img src="./screenshots/signup.jpg" alt="Sign Up" width="200"/>
+      <br/>Sign Up Page
+    </td>
+    <td align="center">
+      <img src="./screenshots/login.jpg" alt="Login" width="200"/>
+      <br/>Login Page
+    </td>
+    <td align="center">
+      <img src="./screenshots/home.jpg" alt="Home" width="200"/>
+      <br/>Home Tab
+    </td>
+    <td align="center">
+      <img src="./screenshots/filter.jpg" alt="Filter" width="200"/>
+      <br/>Filter Page
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./screenshots/property-details.jpg" alt="Property Details" width="200"/>
+      <br/>Property Details
+    </td>
+    <td align="center">
+      <img src="./screenshots/add-property.jpg" alt="Add Property" width="200"/>
+      <br/>Add Property Tab
+    </td>
+    <td align="center">
+      <img src="./screenshots/like.jpg" alt="Like" width="200"/>
+      <br/>Like Tab
+    </td>
+    <td align="center">
+      <img src="./screenshots/profile.jpg" alt="Profile" width="200"/>
+      <br/>Profile Page
+    </td>
+  </tr>
+</table>
 
-### 3. Home Tab
-![Home](screenshots/home.jpg)
-
-### 4. Filter Page
-![Home](screenshots/filter.jpg)
-
-### 5. Property Details Page
-![Property Details](screenshots/property-details.jpg)
-
-### 6. Add Property Tab
-![Add Property](screenshots/add-property.jpg)
-
-### 7. Like Tab
-![Like Tab](screenshots/like.jpg)
-
-### 8. Profile Page
-![Profile](screenshots/profile.jpg)
-
----
 
 ## 📊 Database Schema
 
