@@ -23,22 +23,22 @@ A Real Estate App built using Expo (React Native) with Supabase as the backend a
 ![Login](./screenshots/login.jpg)
 
 ### 3. Home Tab
-![Home](./screenshots/home.jpg)
+![Home](screenshots/home.jpg)
 
 ### 4. Filter Page
-![Home](./screenshots/filter.jpg)
+![Home](screenshots/filter.jpg)
 
 ### 5. Property Details Page
-![Property Details](./screenshots/property-details.jpg)
+![Property Details](screenshots/property-details.jpg)
 
 ### 6. Add Property Tab
-![Add Property](./screenshots/add-property.jpg)
+![Add Property](screenshots/add-property.jpg)
 
 ### 7. Like Tab
-![Like Tab](./screenshots/like.jpg)
+![Like Tab](screenshots/like.jpg)
 
 ### 8. Profile Page
-![Profile](./screenshots/profile.jpg)
+![Profile](screenshots/profile.jpg)
 
 ---
 
