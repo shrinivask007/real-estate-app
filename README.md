@@ -1,3 +1,82 @@
+# 🏡 Real Estate App
+A Real Estate App built using Expo (React Native) with Supabase as the backend and a SQL database. This app allows users to sign up, log in, explore properties, add properties, like them, and manage their profiles efficiently.
+
+## 📱 Features
+1. ✅ User Authentication: Sign Up and Login functionality using Supabase Auth.
+2. ✅ Home Tab: Displays a list of properties as cards. Tap on any property to view its detailed page.
+3. ✅ Add Property Tab: Add new properties with relevant details. Property is stored securely in the database.
+4. ✅ Like Tab: Displays the properties that the user has liked. Shown in the same card layout as the Home tab.
+5. ✅ Profile Page: Manage user profile details and preferences.
+
+## 🛠️ Tech Stack
+- Frontend: React Native (Expo)
+- Backend: Supabase
+- Database: SQL
+- Authentication: Supabase Auth
+
+## 📸 Screenshots
+
+### 1. Sign Up Page
+![Sign Up](./screenshots/signup.jpg)
+
+### 2. Login Page
+![Login](./screenshots/login.jpg)
+
+### 3. Home Tab
+![Home](./screenshots/home.jpg)
+
+### 4. Filter Page
+![Home](./screenshots/filter.jpg)
+
+### 5. Property Details Page
+![Property Details](./screenshots/property-details.jpg)
+
+### 6. Add Property Tab
+![Add Property](./screenshots/add-property.jpg)
+
+### 7. Like Tab
+![Like Tab](./screenshots/like.jpg)
+
+### 8. Profile Page
+![Profile](./screenshots/profile.jpg)
+
+---
+
+## 📊 Database Schema
+
+![Database Schema](./screenshots/dbschema.png)
+Database schema design to structure and manage property and user data efficiently.
+🚀 Getting Started
+
+1. Clone the Repository
+```bash
+git clone https://github.com/shrinivask007/real-estate-app
+cd real-estate-app
+```
+2. Install Dependencies
+```bash
+npm install
+```
+3. Configure Environment Variables
+Create a `.env` file in the root directory with the following values:
+```
+SUPABASE_URL=<your-supabase-url>
+SUPABASE_KEY=<your-supabase-api-key>
+```
+4. Run the App
+```bash
+npx expo start
+```
+## 📄 API Configuration
+Supabase API is used to fetch, update, and manage property data. Authentication is handled with Supabase Auth.
+## 📝 Contributing
+Contributions are welcome! Feel free to create a pull request.
+## 📧 Contact
+For any questions or suggestions, reach out at:
+**Email:** [your-email@example.com](mailto:shrinivassk18@gmail.com)
+## 📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
