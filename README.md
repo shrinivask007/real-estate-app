@@ -1,21 +1,6 @@
 # 🏡 Real Estate App
 A Real Estate App built using Expo (React Native) with Supabase as the backend and a SQL database. This app allows users to sign up, log in, explore properties, add properties, like them, and manage their profiles efficiently.
 
-## 📱 Features
-1. ✅ User Authentication: Sign Up and Login functionality using Supabase Auth.
-2. ✅ Home Tab: Displays a list of properties as cards. Tap on any property to view its detailed page.
-3. ✅ Add Property Tab: Add new properties with relevant details. Property is stored securely in the database.
-4. ✅ Like Tab: Displays the properties that the user has liked. Shown in the same card layout as the Home tab.
-5. ✅ Profile Page: Manage user profile details and preferences.
-
-## 🛠️ Tech Stack
-- Frontend: React Native (Expo)
-- Backend: Supabase
-- Database: SQL
-- Authentication: Supabase Auth
-
-## 📸 Screenshots
-
 ## 📸 Screenshots
 
 <table>
@@ -64,6 +49,36 @@ A Real Estate App built using Expo (React Native) with Supabase as the backend a
 Database schema design to structure and manage property and user data efficiently.
 🚀 Getting Started
 
+## 📚 Features
+
+1. **Authentication**
+   - User Signup & Login (with validation)
+   - Secure session handling using Supabase Auth
+
+2. **Home Tab 🏠**
+   - List of available properties displayed as cards
+   - Property details page on clicking a card
+   - Search bar with filters for refining results
+
+3. **Add Property Tab ➕**
+   - Allows authenticated users to add new properties
+   - Fields include property name, price, location, etc.
+
+4. **Like Tab ❤️**
+   - Displays a list of liked properties in card format
+   - Easy access to favorite properties
+
+5. **Profile Page 👤**
+   - View and edit user profile
+   - Logout functionality
+
+
+## 🛠️ Tech Stack
+- Frontend: React Native (Expo)
+- Backend: Supabase
+- Database: SQL
+- Authentication: Supabase Auth
+
 1. Clone the Repository
 ```bash
 git clone https://github.com/shrinivask007/real-estate-app
@@ -89,7 +104,7 @@ Supabase API is used to fetch, update, and manage property data. Authentication 
 Contributions are welcome! Feel free to create a pull request.
 ## 📧 Contact
 For any questions or suggestions, reach out at:
-**Email:** [your-email@example.com](mailto:shrinivassk18@gmail.com)
+**Email:** [shrinivassk18@gmail.com](mailto:shrinivassk18@gmail.com)
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
